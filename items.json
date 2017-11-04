@@ -1,19 +1,24 @@
-myItems = {
-    "item1" : {
-        "name":"Samyang 2X Spicy Hot Chicken Flavor Ramen Noodles",
-        "SHU":8808
-    },
-    "item2" : {
-        "name":"Samyang Spicy Chicken Ramen Noodles",
-        "SHU":4404
-
-    },
-    "item3" : {
-        "name":"Habanero Ramyun Korean Super Spicy Noodles Ramen",
-        "SHU":5930
-    },
-    "item4": {
-        "name":"Hot Chicken Ramen Cheese Flavor",
-        "SHU":2323
-    }
+{
+    "myItems" : [
+        {
+            "id":1,
+            "name":"Samyang 2X Spicy Hot Chicken Flavor Ramen Noodles",
+            "SHU":8808
+        },
+        {
+            "id":2,
+            "name":"Samyang Spicy Chicken Ramen Noodles",
+            "SHU":4404
+        },
+        {
+            "id":3,
+            "name":"Habanero Ramyun Korean Super Spicy Noodles Ramen",
+            "SHU":5930
+        },
+        {
+            "id":4,
+            "name":"Hot Chicken Ramen Cheese Flavor",
+            "SHU":2323
+        }
+    ]
 }
