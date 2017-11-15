@@ -3,22 +3,56 @@
         {
             "id":0,
             "name":"Samyang 2X Spicy Hot Chicken Flavor Ramen Noodles",
-            "SHU":8808
+            "SHU":8808,
+            "URL":"https://www.amazon.com/gp/product/B01MUGP7QK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MUGP7QK&linkCode=as2&tag=spicynoods-20&linkId=3468ab04f260251cca3e37038a9b250b"
         },
         {
             "id":1,
             "name":"Samyang Spicy Chicken Ramen Noodles",
-            "SHU":4404
+            "SHU":4404,
+            "URL":"https://www.amazon.com/gp/product/B00MCGCDKA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MCGCDKA&linkCode=as2&tag=spicynoods-20&linkId=f3d5c3398f2083cc985b0bb7258213b3"
         },
         {
             "id":2,
             "name":"Habanero Ramyun Korean Super Spicy Noodles Ramen",
-            "SHU":5930
+            "SHU":5930,
+            "URL":""
         },
         {
             "id":3,
             "name":"Hot Chicken Ramen Cheese Flavor",
-            "SHU":2323
-        }
+            "SHU":2323,
+            "URL":"https://www.amazon.com/gp/product/B01LZXSYS0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LZXSYS0&linkCode=as2&tag=spicynoods-20&linkId=3f3157142b0dd7b51c292305d7480a20"
+        },
+        {
+            "id":5,
+            "name":"Paldo Bulnak Pan Noodle Irresistable Sweet Spicy Ramen",
+            "SHU":2323,
+            "URL":"https://www.amazon.com/gp/product/B01E0DKZJ8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E0DKZJ8&linkCode=as2&tag=spicynoods-20&linkId=7aac9cfcced24e2d6eed73df1dbe85e7"
+        },
+        {
+            "id":6,
+            "name":"Paldo Teumsae Ramen",
+            "SHU":0,
+            "URL":"https://www.amazon.com/gp/product/B00A6Z30C4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00A6Z30C4&linkCode=as2&tag=spicynoods-20&linkId=8999e7ed7408ab0a42231c96df6c2080"
+        },
+        {
+            "id":7,
+            "name":"Maggi Hotheads Green Chilli Noodles",
+            "SHU":0,
+            "URL":"https://www.amazon.com/gp/product/B01KLTY89I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KLTY89I&linkCode=as2&tag=spicynoods-20&linkId=64e10fccee38132add08e897341eb249"
+        },
+        {
+            "id":8,
+            "name":"Maggi Hotheads Barbeque Pepper Noodles",
+            "SHU":0,
+            "URL":"https://www.amazon.com/gp/product/B01KLTY3XY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KLTY3XY&linkCode=as2&tag=spicynoods-20&linkId=14ff0d7281a1767b228280a0ae7ed944"
+        },
+        {
+            "id":9,
+            "name":"Maggi Hotheads Barbeque Pepper Noodles",
+            "SHU":0,
+            "URL":"https://www.amazon.com/gp/product/B06XBBJV5X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06XBBJV5X&linkCode=as2&tag=spicynoods-20&linkId=870134966adab2ddbd22e3d27c3aee59"
+        },
     ]
 }
