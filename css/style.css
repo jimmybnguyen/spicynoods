@@ -53,6 +53,10 @@ h1 {
     font-weight: 200
 }
 
+h2 {
+
+}
+
 body {
     font-family: 'Open Sans', sans-serif;
 }
@@ -61,15 +65,34 @@ a {
 	text-decoration: none;
 }
 
-.container {
+section {
+	margin-top: 3rem;
+	margin-bottom: 3srem;
 }
+
+.item {
+	text-align: left;
+}
+
+.thumbnail {
+	height: 200px;
+	width: 200px;
+	float: left;
+	margin-right: 1rem;
+}
+
+.icon {
+	height: 50px;
+	width: auto;
+}
+
 
 /********************* Hero Image ***************************************/
 
 
 .hero {
 	height: 68vh;
-	background-image: url('../img/food.jpg');
+	background-image: url('../img/spicy-noods.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -97,7 +120,6 @@ a {
 .footer {
 	position: absolute;
 	right: 0;
-	bottom: 0;
 	left: 0;
 	padding: 3rem;
 	background-color: #F5F5F5;
